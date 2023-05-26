@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\EXE1-HeP\bin\Debug\net7.0\EXE1-HeP.exe
+C:\Users\LAB4\Desktop\EXE1-HeP\bin\Debug\net7.0\EXE1-HeP.deps.json
+C:\Users\LAB4\Desktop\EXE1-HeP\bin\Debug\net7.0\EXE1-HeP.runtimeconfig.json
+C:\Users\LAB4\Desktop\EXE1-HeP\bin\Debug\net7.0\EXE1-HeP.dll
+C:\Users\LAB4\Desktop\EXE1-HeP\bin\Debug\net7.0\EXE1-HeP.pdb
+C:\Users\LAB4\Desktop\EXE1-HeP\obj\Debug\net7.0\EXE1-HeP.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\EXE1-HeP\obj\Debug\net7.0\EXE1-HeP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\EXE1-HeP\obj\Debug\net7.0\EXE1-HeP.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\EXE1-HeP\obj\Debug\net7.0\EXE1-HeP.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\EXE1-HeP\obj\Debug\net7.0\EXE1-HeP.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\EXE1-HeP\obj\Debug\net7.0\EXE1-HeP.dll
+C:\Users\LAB4\Desktop\EXE1-HeP\obj\Debug\net7.0\refint\EXE1-HeP.dll
+C:\Users\LAB4\Desktop\EXE1-HeP\obj\Debug\net7.0\EXE1-HeP.pdb
+C:\Users\LAB4\Desktop\EXE1-HeP\obj\Debug\net7.0\EXE1-HeP.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\EXE1-HeP\obj\Debug\net7.0\ref\EXE1-HeP.dll
